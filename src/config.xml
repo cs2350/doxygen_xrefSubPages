@@ -1212,6 +1212,14 @@ Go to the <a href="commands.html">next</a> section or return to the
 ]]>
       </docs>
     </option>
+    <option type='bool' id='SORT_RELATED_PAGES' defval='0'>
+      <docs>
+<![CDATA[
+ The \c SORT_RELATED_PAGES tag can be used to enable (\c YES) or
+ disable (\c NO) sorting of Generted Pages by title.
+]]>
+      </docs>
+   </option>
     <option type='bool' id='GENERATE_TESTLIST' defval='1'>
       <docs>
 <![CDATA[
